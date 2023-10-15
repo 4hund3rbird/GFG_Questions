@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    vector<vector<int>> a={
+    vector<vector<int>>a={
                         {1,1,0},
                         {0,1,0},
                         {1,1,0},
